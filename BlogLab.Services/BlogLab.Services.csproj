@@ -6,7 +6,9 @@
 
     <ItemGroup>
       <PackageReference Include="CloudinaryDotNet" Version="1.15.2" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.8" />
       <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="2.2.0" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
     </ItemGroup>
 
     <ItemGroup>
