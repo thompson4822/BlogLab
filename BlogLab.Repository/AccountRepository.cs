@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using BlogLab.Models.Account;
 using Dapper;
-using Microsoft.AspNet.Identity;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 
 namespace BlogLab.Repository

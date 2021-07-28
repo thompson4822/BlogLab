@@ -1,3 +1,4 @@
+
 namespace BlogLab.Models.Account
 {
     public class ApplicationUserIdentity

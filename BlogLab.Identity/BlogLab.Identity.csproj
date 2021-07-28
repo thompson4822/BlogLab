@@ -6,13 +6,11 @@
 
     <ItemGroup>
       <ProjectReference Include="..\BlogLab.Models\BlogLab.Models.csproj" />
+      <ProjectReference Include="..\BlogLab.Repository\BlogLab.Repository.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="Dapper" Version="2.0.90" />
       <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
-      <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0-preview.6.21352.12" />
-      <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
     </ItemGroup>
 
 </Project>
