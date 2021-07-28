@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogLab.Web", "BlogLab.Web\BlogLab.Web.csproj", "{6970C24B-45C5-434C-A837-18DC8B622DC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogLab.Models", "BlogLab.Models\BlogLab.Models.csproj", "{AF65B0B5-BC03-474C-A696-2219E63BE41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogLab.Repository", "BlogLab.Repository\BlogLab.Repository.csproj", "{94485118-F856-425E-A90F-C039D907AFC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{6970C24B-45C5-434C-A837-18DC8B622DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6970C24B-45C5-434C-A837-18DC8B622DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6970C24B-45C5-434C-A837-18DC8B622DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF65B0B5-BC03-474C-A696-2219E63BE41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF65B0B5-BC03-474C-A696-2219E63BE41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF65B0B5-BC03-474C-A696-2219E63BE41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF65B0B5-BC03-474C-A696-2219E63BE41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94485118-F856-425E-A90F-C039D907AFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94485118-F856-425E-A90F-C039D907AFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94485118-F856-425E-A90F-C039D907AFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94485118-F856-425E-A90F-C039D907AFC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
